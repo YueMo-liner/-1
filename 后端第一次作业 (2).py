@@ -37,8 +37,8 @@ print(tuplefu[1:3])
 print(tuplefu[:3])
 print(tuplefu*2)
 print(tuple1+tuplefu)
-print(tuple1+tuplefu)
-print(tuple1+tuplefu)
+print(tuple1.index("我是个man"))
+print(tuplefu.count("1884"))
 
 '''集合'''
 set1={4,9,41,12,45,10,11}
